@@ -7,7 +7,7 @@ Interactive Power BI Dashboard for Sales Performance Insights
 This project is an interactive Power BI dashboard designed to analyze and visualize global sales performance across multiple countries, years, and product categories.
 It provides clear insights into total sales, profits, profit margins, and product performance, enabling data-driven decision-making for business growth.
 
-🎯 Key Objectives
+🎯 **Key Objectives**
 
 To track and compare sales performance across regions (Canada, France, Germany, Mexico, and the USA).
 
@@ -138,4 +138,5 @@ Contributions, suggestions, or improvements are welcome!
 If you’d like to enhance or extend the dashboard, feel free to fork the repository and submit a pull request.
 
 Prem Dharmik
+
 📧 www.linkedin.com/in/prem-dharmik-252b97230
